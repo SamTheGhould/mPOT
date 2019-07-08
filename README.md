@@ -5,11 +5,11 @@ mPOT stands for Music Processesing and Organization with Tagging and is used to 
 This aplication is currently in development, each module will be released as a seperate piece of code under GPL license incase someone would want to use just that part.
 
 ## Features
-###Completex
+### Completed
   * Being able to read audio files metadata using [TinyTag](https://github.com/devsnd/tinytag)
   * Organizes and names files at an output folder based on the name configuration file
   
-###TO-DO
+### TO-DO
  * Process music files to the NEST API to grab metadata
  * Write NEST metadata to audio files
  * Create a GUI for simple use
